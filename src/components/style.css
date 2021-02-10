@@ -1,0 +1,12 @@
+.nav-item {
+    height: 48px;
+    line-height: 48px;
+}
+.nav-con {
+    display: flex;
+    flex-direction: column;
+}
+.active {
+    background-color: #e6f7ff;
+    color: #1890ff;
+}
