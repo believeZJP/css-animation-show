@@ -20,3 +20,5 @@ export default class Test extends React.Component {
     )
   }
 }
+export const title = '3D文字跑马灯'
+

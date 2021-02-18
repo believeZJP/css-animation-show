@@ -11,3 +11,9 @@
 在js中引入css的时候由原来`import './style.css';`改为`import styles from './style.module.css';`
 
 在用样式的时候用`<div className={styles.box}>`
+
+## 自动化导入组件，生成路由
+
+[官方文档](https://webpack.docschina.org/guides/dependency-management/#requirecontext)
+
+`require.context('./test', false, /.test.js$/);`

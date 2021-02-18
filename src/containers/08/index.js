@@ -15,3 +15,4 @@ export default class Test extends React.Component {
     )
   }
 }
+export const title = '充电动画加载'

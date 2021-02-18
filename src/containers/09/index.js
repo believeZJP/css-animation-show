@@ -9,8 +9,8 @@ import styles from './style.module.css'
 export default class Test extends React.Component {
   render () {
     return (
-      <div className={styles.box}>BUTTON</div>
+        <div className={styles.box}>BUTTON</div>
     )
   }
 }
-export const title = '金属光泽3D按钮'
+export const title = '按钮被瞄准交互'

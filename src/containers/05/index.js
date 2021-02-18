@@ -20,3 +20,4 @@ export default class Test extends React.Component {
     )
   }
 }
+export const title = '立体滑动 toggle 交互控件'

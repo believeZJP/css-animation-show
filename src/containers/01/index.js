@@ -20,3 +20,4 @@ export default class Test extends React.Component {
         );
     }
 }
+export const title = '按钮文字滑动'

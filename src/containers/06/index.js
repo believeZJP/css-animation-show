@@ -20,3 +20,4 @@ export default class Test extends React.Component {
     )
   }
 }
+export const title = '闪闪发光的钻石'

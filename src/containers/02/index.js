@@ -17,3 +17,5 @@ export default class Test extends React.Component {
         );
     }
 }
+
+export const title = '矩形旋转加载'

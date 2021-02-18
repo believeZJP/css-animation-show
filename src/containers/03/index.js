@@ -15,3 +15,4 @@ export default class Test extends React.Component {
         );
     }
 }
+export const title = '容器厚条纹边框'
